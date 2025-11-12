@@ -30,6 +30,10 @@ h2 {
     font-family: 'Playfair Display', serif;
 }
 
+.header-1{
+    background-color: #388E3C;
+}
+
 .container {
     width: 90%;
     max-width: 1200px;
